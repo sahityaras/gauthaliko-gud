@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="id" version="3.0" prefix="rendition: http://www.idpf.org/vocab/rendition/#">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <meta property="dcterms:modified">2025-12-31T23:22:07Z</meta>
+    <meta name="generator" content="Ebook-lib 0.19.0"/>
+    <dc:identifier id="id">20251231232207</dc:identifier>
+    <dc:title>गौंथलीको गुँड</dc:title>
+    <dc:language>ne</dc:language>
+    <dc:creator id="creator">शङ्कर लामिछाने</dc:creator>
+    <dc:date>2025-12-31T23:22:07Z</dc:date>
+    <dc:publisher>Sahityaras</dc:publisher>
+    <meta name="source_publisher" content="बुक हिल पब्लिकेसन (शङ्कर लामिछाने)"></meta>
+    <meta name="source_edition" content="प्रथम"></meta>
+    <meta name="source_year" content="२०७५"></meta>
+    <meta name="source_isbn" content=""></meta>
+    <meta name="book_about" content="गौँथलीको गुँड (कथा सङ्ग्रह) शङ्कर लामिछानेद्वारा लेखिएको कृति हो। यो  कथा सङ्ग्रहमा उनले प्रयोगात्मक देखि लिएर मनोवैज्ञानिक विषय बस्तु समेटिएका कथाहरु गुथेका छन् ।"></meta>
+    <meta name="book_genre" content="कथासङ्ग्रह"></meta>
+    <meta name="book_slug" content="gauthaliko-gud"></meta>
+    <meta name="cover" content="cover-img"></meta>
+  </metadata>
+  <manifest>
+    <item href="styles/global.css" id="static_0" media-type="text/css"/>
+    <item href="images/cover.jpg" id="cover-img" media-type="image/jpeg" properties="cover-image"/>
+    <item href="cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
+    <item href="text/coverpage.xhtml" id="chapter_0" media-type="application/xhtml+xml"/>
+    <item href="fonts/BhotoSerifDevanagari-VF.ttf" id="static_1" media-type="application/font-sfnt"/>
+    <item href="text/titlepage.xhtml" id="chapter_1" media-type="application/xhtml+xml"/>
+    <item href="images/saras_logo.png" id="static_2" media-type="image/png"/>
+    <item href="text/copyrightpage.xhtml" id="chapter_2" media-type="application/xhtml+xml"/>
+    <item href="text/tocpage.xhtml" id="chapter_3" media-type="application/xhtml+xml"/>
+    <item href="text/bhumika.xhtml" id="chapter_4" media-type="application/xhtml+xml"/>
+    <item href="text/gauthaliko-gud.xhtml" id="chapter_5" media-type="application/xhtml+xml"/>
+    <item href="text/maya-no-653.xhtml" id="chapter_6" media-type="application/xhtml+xml"/>
+    <item href="text/u-kasko-ho.xhtml" id="chapter_7" media-type="application/xhtml+xml"/>
+    <item href="text/aatmako-mimamsa.xhtml" id="chapter_8" media-type="application/xhtml+xml"/>
+    <item href="text/kathar.xhtml" id="chapter_9" media-type="application/xhtml+xml"/>
+    <item href="text/ishwar-ra-jivan.xhtml" id="chapter_10" media-type="application/xhtml+xml"/>
+    <item href="text/pratikshya.xhtml" id="chapter_11" media-type="application/xhtml+xml"/>
+    <item href="text/krantiko-pahilo-char.xhtml" id="chapter_12" media-type="application/xhtml+xml"/>
+    <item href="text/paani-ra-bachita.xhtml" id="chapter_13" media-type="application/xhtml+xml"/>
+    <item href="text/ma-bholi-janmanechu.xhtml" id="chapter_14" media-type="application/xhtml+xml"/>
+    <item href="text/mrityuko-git-waljko-dhunma.xhtml" id="chapter_15" media-type="application/xhtml+xml"/>
+    <item href="text/ardhamudit-nayan-ra-dubna.xhtml" id="chapter_16" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="chapter_0"/>
+    <itemref idref="chapter_1"/>
+    <itemref idref="chapter_2"/>
+    <itemref idref="chapter_3"/>
+    <itemref idref="chapter_4"/>
+    <itemref idref="chapter_5"/>
+    <itemref idref="chapter_6"/>
+    <itemref idref="chapter_7"/>
+    <itemref idref="chapter_8"/>
+    <itemref idref="chapter_9"/>
+    <itemref idref="chapter_10"/>
+    <itemref idref="chapter_11"/>
+    <itemref idref="chapter_12"/>
+    <itemref idref="chapter_13"/>
+    <itemref idref="chapter_14"/>
+    <itemref idref="chapter_15"/>
+    <itemref idref="chapter_16"/>
+  </spine>
+</package>
